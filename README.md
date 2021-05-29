@@ -1,7 +1,6 @@
 # [스터디 제목]
 
-[스터디 상태 (상세 옵션은 [아래](#Study 상태)를 참고.)]
-[아래](#Study 상태)
+[스터디 상태 (상세 옵션은 [아래](#study-상태)를 참고.)]
 
 - Study type: **-**
 - Study lead: **-**
@@ -11,7 +10,7 @@
 
 ✏️ [스터디 설명]
 
-### Study 상태
+### study 상태
 | Badge             | Description                          |
 | ----------------- | ------------------------------------ |
 | <img src="https://img.shields.io/badge/Study%20Status-Repo%20Created-lightgray.svg" alt="Study Status: Repo Created"> | 스터디 저장소가 만들어짐. 스터디 시작 전. | 
