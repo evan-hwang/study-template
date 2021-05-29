@@ -1,7 +1,6 @@
 # [스터디 제목]
 
-[스터디 상태]
-<img src="https://img.shields.io/badge/Study%20Status-Repo%20Created-lightgray.svg" alt="Study Status: Repo Created">
+[스터디 상태 (상세 옵션은 [아래](#study-status)를 참고.)]
 
 - Study type: **-**
 - Study lead: **-**
